@@ -1,0 +1,10 @@
+bin/
+*.dll
+*.pdb
+*.user
+*.cache
+*.suo
+*.docstates
+*.obj
+*.exe
+*.pch
