@@ -1,5 +1,5 @@
 // FINDPATH - Locates a file using the Windows search path
-// Copyright (C) 2004, Atif Aziz http://www.raboof.com
+// Copyright (C) 2002, Atif Aziz http://www.raboof.com
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
